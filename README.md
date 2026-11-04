@@ -25,3 +25,7 @@ build.bat
 
 `build.bat` generates `app.ico` from `icon-source.jpg` (via `make-icon.ps1`) if missing,
 then compiles `StayLit.exe`.
+
+## Buy me a coffee
+
+https://buymeacoffee.com/sleverin
